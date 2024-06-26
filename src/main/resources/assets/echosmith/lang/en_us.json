@@ -1,0 +1,15 @@
+{
+  "item.echosmith.echo_sword": "§3Echo Sword",
+  "item.echosmith.echo_pickaxe": "§3Echo Pickaxe",
+  "item.echosmith.echo_axe": "§3Echo Axe",
+  "item.echosmith.echo_shovel": "§3Echo Shovel",
+  "item.echosmith.echo_hoe": "§3Echo Hoe",
+
+  "item.echosmith.echo_helmet": "§3Echo Helmet",
+  "item.echosmith.echo_chestplate": "§3Echo Chestplate",
+  "item.echosmith.echo_leggings": "§3Echo Leggings",
+  "item.echosmith.echo_boots": "§3Echo Boots",
+
+
+  "creativetab.echosmith": "Echo Smith"
+}
