@@ -1,5 +1,6 @@
 package com.axperty.echosmith;
 
+import com.axperty.echosmith.loot.ModLootModifiers;
 import com.mojang.logging.LogUtils;
 import com.axperty.echosmith.block.ModBlocks;
 import com.axperty.echosmith.item.ModCreativeModTabs;
@@ -29,6 +30,7 @@ public class EchoSmith {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -36,23 +38,6 @@ public class EchoSmith {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-//        event.enqueueWork(() -> {
-//            ((FlowerPotBlock) Blocks.FLOWER_POT).addPlant(ModBlocks.CATMINT.getId(), ModBlocks.POTTED_CATMINT);
-//        });
-    }
 
-    // You can use SubscribeEvent and let the Event Bus discover methods to call
-    @SubscribeEvent
-    public void onServerStarting(ServerStartingEvent event) {
-
-    }
-
-    // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
-    @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
-    public static class ClientModEvents {
-        @SubscribeEvent
-        public static void onClientSetup(FMLClientSetupEvent event) {
-
-        }
     }
 }

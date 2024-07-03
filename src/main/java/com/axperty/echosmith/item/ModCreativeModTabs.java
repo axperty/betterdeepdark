@@ -1,7 +1,6 @@
 package com.axperty.echosmith.item;
 
 import com.axperty.echosmith.EchoSmith;
-import com.axperty.echosmith.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -14,11 +13,10 @@ public class ModCreativeModTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, EchoSmith.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> TUTORIAL_TAB = CREATIVE_MODE_TABS.register("echosmith_tab",
+    public static final RegistryObject<CreativeModeTab> ECHOSMITH_TAB = CREATIVE_MODE_TABS.register("echosmith_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ECHO_SWORD.get()))
                     .title(Component.translatable("creativetab.echosmith"))
                     .displayItems((pParameters, pOutput) -> {
-
                         pOutput.accept(ModItems.ECHO_SWORD.get());
                         pOutput.accept(ModItems.ECHO_PICKAXE.get());
                         pOutput.accept(ModItems.ECHO_AXE.get());
@@ -30,8 +28,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.ECHO_LEGGINGS.get());
                         pOutput.accept(ModItems.ECHO_BOOTS.get());
 
-//                        pOutput.accept(ModBlocks.CATMINT.get());
-
+                        pOutput.accept(ModItems.WARDEN_SOUL_PIECE.get());
+                        pOutput.accept(ModItems.ECHO_STICK.get());
                     })
                     .build());
 

@@ -15,19 +15,6 @@ public class ModItems {
     public static final RegistryObject<Item> ECHO = ITEMS.register("echo",
             () -> new Item(new Item.Properties()));
 
-//    public static final RegistryObject<Item> RAW_SAPPHIRE = ITEMS.register("raw_sapphire",
-//            () -> new Item(new Item.Properties()));
-
-//    public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
-//            () -> new MetalDetectorItem(new Item.Properties().durability(100)));
-
-//    public static final RegistryObject<Item> SAPPHIRE_STAFF = ITEMS.register("sapphire_staff",
-//            () -> new Item(new Item.Properties().stacksTo(1)));
-//
-//    public static final RegistryObject<Item> PINE_CONE = ITEMS.register("pine_cone",
-//            () -> new FuelItem(new Item.Properties(), 400));
-
-
     public static final RegistryObject<Item> ECHO_SWORD = ITEMS.register("echo_sword",
             () -> new SwordItem(ModToolTiers.ECHO_TIER, 4, .2f, new Item.Properties()));
 
@@ -54,6 +41,12 @@ public class ModItems {
 
     public static final RegistryObject<Item> ECHO_BOOTS = ITEMS.register("echo_boots",
             () -> new ArmorItem(ModArmorMaterials.ECHO, ArmorItem.Type.BOOTS, new Item.Properties()));
+
+    public static final RegistryObject<Item> WARDEN_SOUL_PIECE = ITEMS.register("warden_soul_piece",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> ECHO_STICK = ITEMS.register("echo_stick",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

@@ -18,14 +18,6 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, EchoSmith.MOD_ID);
 
-//    public static final RegistryObject<Block> CATMINT = registerBlock("catmint",
-//            () -> new FlowerBlock(() -> MobEffects.LUCK, 5,
-//                    BlockBehaviour.Properties.copy(Blocks.ALLIUM).noOcclusion().noCollission()));
-//    public static final RegistryObject<Block> POTTED_CATMINT = BLOCKS.register("potted_catmint",
-//            () -> new FlowerPotBlock(() -> ((FlowerPotBlock) Blocks.FLOWER_POT), ModBlocks.CATMINT,
-//                    BlockBehaviour.Properties.copy(Blocks.POTTED_ALLIUM).noOcclusion()));
-
-
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn);
