@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "S": {
+      "item": "betterdeepdark:echo_stick"
+    }
+  },
+  "result": {
+    "item": "betterdeepdark:echo_pickaxe"
+  }
+}

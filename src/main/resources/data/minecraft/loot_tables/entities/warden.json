@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "echosmith:warden_soul_piece",
+          "name": "betterdeepdark:soul_piece",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -22,11 +22,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "echosmith:warden_soul_piece",
+          "name": "betterdeepdark:soul_piece",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.4
+              "chance": 0.5
             }
           ]
         }
@@ -48,7 +48,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "echosmith:echo_stick",
+          "name": "betterdeepdark:echo_stick",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -64,7 +64,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "echosmith:echo_axe",
+          "name": "betterdeepdark:echo_axe",
           "conditions": [
             {
               "condition": "minecraft:random_chance",

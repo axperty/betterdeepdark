@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:echo_shard"
+  },
+  "result": "betterdeepdark:echo_stone",
+  "experience": 0.2,
+  "cookingtime": 200
+}

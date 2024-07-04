@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "echosmith:item/warden_soul_piece"
-  }
-}

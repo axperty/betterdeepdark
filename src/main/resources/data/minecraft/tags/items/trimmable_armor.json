@@ -1,8 +1,8 @@
 {
   "values": [
-    "echosmith:echo_helmet",
-    "echosmith:echo_chestplate",
-    "echosmith:echo_leggings",
-    "echosmith:echo_boots"
+    "betterdeepdark:echo_helmet",
+    "betterdeepdark:echo_chestplate",
+    "betterdeepdark:echo_leggings",
+    "betterdeepdark:echo_boots"
   ]
 }
