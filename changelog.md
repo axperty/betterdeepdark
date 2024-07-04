@@ -1,6 +1,12 @@
 # Better Deep Dark
 ## Development Changelog
 
+## 2024.07.04 (2):
+- Added Dark Ingot.
+- Added Echo Upgrade Smithing Template.
+- Ancient city chests can now contain Echo Stones, Echo Sticks, and Echo Upgrade Smithing Templates.
+- Echo tools are now obtainable by using the smithing table (missing armors).
+
 ## 2024.07.04:
 - Renamed Echo Smith to Better Deep Dark.
 - Renamed all mod ID references to betterdeepdark.

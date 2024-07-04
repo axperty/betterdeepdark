@@ -1,19 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "EE ",
-    "ES ",
-    " S "
-  ],
-  "key": {
-    "E": {
-      "item": "minecraft:echo_shard"
-    },
-    "S": {
-      "item": "betterdeepdark:echo_stick"
-    }
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "betterdeepdark:dark_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
   },
   "result": {
     "item": "betterdeepdark:echo_axe"
+  },
+  "template": {
+    "item": "betterdeepdark:echo_upgrade_smithing_template"
   }
 }

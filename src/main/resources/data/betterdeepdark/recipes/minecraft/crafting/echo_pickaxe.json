@@ -1,19 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "EEE",
-    " S ",
-    " S "
-  ],
-  "key": {
-    "E": {
-      "item": "minecraft:echo_shard"
-    },
-    "S": {
-      "item": "betterdeepdark:echo_stick"
-    }
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "betterdeepdark:dark_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
   },
   "result": {
     "item": "betterdeepdark:echo_pickaxe"
+  },
+  "template": {
+    "item": "betterdeepdark:echo_upgrade_smithing_template"
   }
 }

@@ -6,6 +6,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
+import net.minecraftforge.fml.ModList;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 
@@ -17,9 +18,11 @@ public class ModCreativeModTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ECHO_SWORD.get()))
                     .title(Component.translatable("creativetab.betterdeepdark"))
                     .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(ModItems.ECHO_STICK.get());
                         pOutput.accept(ModItems.SOUL_PIECE.get());
                         pOutput.accept(ModItems.ECHO_STONE.get());
-                        pOutput.accept(ModItems.ECHO_STICK.get());
+                        pOutput.accept(ModItems.DARK_INGOT.get());
+                        pOutput.accept(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE.get());
 
                         pOutput.accept(ModItems.ECHO_SWORD.get());
                         pOutput.accept(ModItems.ECHO_PICKAXE.get());

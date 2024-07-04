@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "betterdeepdark:echo_stone"
+    },
+    "C": {
+      "item": "minecraft:sculk"
+    },
+    "S": {
+      "item": "betterdeepdark:echo_upgrade_smithing_template"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "betterdeepdark:echo_upgrade_smithing_template"
+  }
+}

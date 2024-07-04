@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNS",
+    "SRR",
+    "RR "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "S": {
+      "item": "betterdeepdark:soul_piece"
+    },
+    "R": {
+      "item": "betterdeepdark:echo_stone"
+    }
+  },
+  "result": {
+    "item": "betterdeepdark:dark_ingot"
+  }
+}
