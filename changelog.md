@@ -1,6 +1,13 @@
 # Better Deep Dark
 ## Development Changelog
 
+## 2024.07.04 (3):
+- Echo armor is now obtainable by using the smithing table.
+- Ancient city ice box chest will now contain Soul Piece, Echo Stone, and Echo Stick.
+- Added Warden's Horn.
+- Added Infected Warden's Horn.
+- Added Knowledge Soup.
+
 ## 2024.07.04 (2):
 - Added Dark Ingot.
 - Added Echo Upgrade Smithing Template.

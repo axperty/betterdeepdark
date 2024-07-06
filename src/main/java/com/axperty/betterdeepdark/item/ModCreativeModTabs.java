@@ -21,6 +21,8 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.ECHO_STICK.get());
                         pOutput.accept(ModItems.SOUL_PIECE.get());
                         pOutput.accept(ModItems.ECHO_STONE.get());
+                        pOutput.accept(ModItems.WARDEN_HORN.get());
+                        pOutput.accept(ModItems.KNOWLEDGE_SOUP.get());
                         pOutput.accept(ModItems.DARK_INGOT.get());
                         pOutput.accept(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE.get());
 
