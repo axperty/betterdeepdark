@@ -1,6 +1,11 @@
 # Better Deep Dark
 ## Development Changelog
 
+## 2024.07.06 (2):
+- Added Echo Stone Block.
+- Increased negative effect when eating Warden's Horn.
+- Removed Echo Stick.
+
 ## 2024.07.06:
 - Echo Stick, Soul Piece, Echo Sword, Echo Pickaxe, Echo Axe, Echo Shovel, Echo Hoe, Echo Helmet, Echo Chestplate, Echo Leggings, and Echo Boots are now fire-resistant.
 - Removed Knowledge Soup.

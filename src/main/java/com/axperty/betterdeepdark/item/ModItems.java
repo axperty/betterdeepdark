@@ -33,9 +33,6 @@ public class ModItems {
     public static final RegistryObject<Item> WARDENS_HORN = ITEMS.register("wardens_horn",
             () -> new Item(new Item.Properties().food(ModFoods.WARDENS_HORN).stacksTo(16)));
 
-    public static final RegistryObject<Item> ECHO_STICK = ITEMS.register("echo_stick",
-            () -> new Item(new Item.Properties().fireResistant()));
-
     public static final RegistryObject<Item> SOUL_PIECE = ITEMS.register("soul_piece",
             () -> new Item(new Item.Properties().fireResistant().stacksTo(16)));
 

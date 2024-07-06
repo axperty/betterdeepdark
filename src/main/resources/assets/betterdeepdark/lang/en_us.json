@@ -10,13 +10,13 @@
   "item.betterdeepdark.echo_leggings": "§3Echo Leggings",
   "item.betterdeepdark.echo_boots": "§3Echo Boots",
 
-  "item.betterdeepdark.echo_stick": "Echo Stick",
   "item.betterdeepdark.soul_piece": "Soul Piece",
   "item.betterdeepdark.echo_stone": "Echo Stone",
   "item.betterdeepdark.wardens_horn": "Warden's Horn",
   "item.betterdeepdark.slimed_wardens_horn": "Slimed Warden's Horn",
   "item.betterdeepdark.dark_ingot": "Dark Ingot",
   "item.betterdeepdark.echo_upgrade_smithing_template": "Echo Upgrade Smithing Template",
+  "block.betterdeepdark.echo_stone_block": "Echo Stone Block",
 
   "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netherite Equipment",
   "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Dark Ingot",

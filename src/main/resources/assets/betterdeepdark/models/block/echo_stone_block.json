@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "betterdeepdark:block/echo_stone_block"
+  }
+}

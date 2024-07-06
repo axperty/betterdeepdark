@@ -49,25 +49,6 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 4.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "betterdeepdark:echo_stick"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "betterdeepdark:echo_stick"
-        },
-        {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "add": false,
-              "count": {
-                "type": "minecraft:uniform",
                 "max": 6.0,
                 "min": 1.0
               },

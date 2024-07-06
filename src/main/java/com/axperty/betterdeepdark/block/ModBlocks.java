@@ -18,6 +18,9 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, BetterDeepDark.MOD_ID);
 
+    public static final RegistryObject<Block> ECHO_STONE_BLOCK = registerBlock("echo_stone_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.STONE).sound(SoundType.SCULK_CATALYST)));
+
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn);

@@ -1,6 +1,7 @@
 package com.axperty.betterdeepdark.item;
 
 import com.axperty.betterdeepdark.BetterDeepDark;
+import com.axperty.betterdeepdark.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,11 +21,11 @@ public class ModCreativeModTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.SLIMED_WARDENS_HORN.get());
                         pOutput.accept(ModItems.WARDENS_HORN.get());
-                        pOutput.accept(ModItems.ECHO_STICK.get());
                         pOutput.accept(ModItems.SOUL_PIECE.get());
                         pOutput.accept(ModItems.ECHO_STONE.get());
                         pOutput.accept(ModItems.DARK_INGOT.get());
                         pOutput.accept(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE.get());
+                        pOutput.accept(ModBlocks.ECHO_STONE_BLOCK.get());
 
                         pOutput.accept(ModItems.ECHO_SWORD.get());
                         pOutput.accept(ModItems.ECHO_PICKAXE.get());

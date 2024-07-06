@@ -98,22 +98,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "betterdeepdark:echo_stick",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.3
-            }
-          ]
-        }
-      ],
-      "rolls": 1.0
-    },
-    {
-      "bonus_rolls": 0.0,
-      "entries": [
-        {
-          "type": "minecraft:item",
           "name": "betterdeepdark:echo_axe",
           "conditions": [
             {
