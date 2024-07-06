@@ -18,11 +18,11 @@ public class ModCreativeModTabs {
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ECHO_SWORD.get()))
                     .title(Component.translatable("creativetab.betterdeepdark"))
                     .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(ModItems.SLIMED_WARDENS_HORN.get());
+                        pOutput.accept(ModItems.WARDENS_HORN.get());
                         pOutput.accept(ModItems.ECHO_STICK.get());
                         pOutput.accept(ModItems.SOUL_PIECE.get());
                         pOutput.accept(ModItems.ECHO_STONE.get());
-                        pOutput.accept(ModItems.WARDEN_HORN.get());
-                        pOutput.accept(ModItems.KNOWLEDGE_SOUP.get());
                         pOutput.accept(ModItems.DARK_INGOT.get());
                         pOutput.accept(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE.get());
 

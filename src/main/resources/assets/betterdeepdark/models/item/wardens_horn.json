@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "betterdeepdark:item/knowledge_soup"
+    "layer0": "betterdeepdark:item/wardens_horn"
   }
 }

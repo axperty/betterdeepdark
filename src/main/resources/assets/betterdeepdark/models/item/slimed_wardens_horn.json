@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "betterdeepdark:item/warden_horn"
+    "layer0": "betterdeepdark:item/slimed_wardens_horn"
   }
 }

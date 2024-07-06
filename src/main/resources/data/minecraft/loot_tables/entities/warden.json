@@ -6,6 +6,28 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "betterdeepdark:wardens_horn",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "name": "betterdeepdark:soul_piece",
           "functions": [
             {
@@ -80,7 +102,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.6
+              "chance": 0.3
             }
           ]
         }
