@@ -24,9 +24,6 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, BetterDeepDark.MOD_ID);
 
-    public static final RegistryObject<Item> ECHO = ITEMS.register("echo",
-            () -> new Item(new Item.Properties()));
-
     public static final RegistryObject<Item> SLIMED_WARDENS_HORN = ITEMS.register("slimed_wardens_horn",
             () -> new Item(new Item.Properties().food(ModFoods.SLIMED_WARDENS_HORN).stacksTo(16)));
 

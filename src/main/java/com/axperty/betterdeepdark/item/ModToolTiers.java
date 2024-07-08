@@ -14,7 +14,7 @@ import java.util.List;
 public class ModToolTiers {
     public static final Tier DEEP_DARK_TIER = TierSortingRegistry.registerTier(
             new ForgeTier(5, 3031, 9f, 0f, 25,
-                    ModTags.Blocks.NEEDS_ECHO_TOOL, () -> Ingredient.of(ModItems.ECHO.get())),
+                    ModTags.Blocks.NEEDS_ECHO_TOOL, () -> Ingredient.of(ModItems.ECHO_STONE.get())),
             new ResourceLocation(BetterDeepDark.MOD_ID, "deep_dark"), List.of(Tiers.NETHERITE), List.of());
 
 }

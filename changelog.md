@@ -1,6 +1,10 @@
 # Better Deep Dark
 ## Development Changelog
 
+## 2024.07.08 (2):
+- Adjusted Deep Dark armors durability values.
+- Deep Dark armors can now be reparable with Echo Stones.
+
 ## 2024.07.08:
 - Added translations for most languages.
 - Added tool tags.
