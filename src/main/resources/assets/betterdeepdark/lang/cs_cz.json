@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Hlubinný temný meč",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Hlubinná temná krumpáč",
+  "item.betterdeepdark.deep_dark_axe": "§3Hlubinná temná sekera",
+  "item.betterdeepdark.deep_dark_shovel": "§3Hlubinná temná lopata",
+  "item.betterdeepdark.deep_dark_hoe": "§3Hlubinná temná motyka",
+
+  "item.betterdeepdark.echo_helmet": "§3Echo přilba",
+  "item.betterdeepdark.echo_chestplate": "§3Echo pancíř",
+  "item.betterdeepdark.echo_leggings": "§3Echo kalhoty",
+  "item.betterdeepdark.echo_boots": "§3Echo boty",
+
+  "item.betterdeepdark.soul_piece": "Kousek duše",
+  "item.betterdeepdark.echo_stone": "Echo kámen",
+  "item.betterdeepdark.wardens_horn": "Trubka Strážce",
+  "item.betterdeepdark.slimed_wardens_horn": "Zamazaná trubka Strážce",
+  "item.betterdeepdark.dark_ingot": "Temný ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Šablona kování pro upgrade Echa",
+  "block.betterdeepdark.echo_stone_block": "Blok echo kamene",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netheritové vybavení",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Temný ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Upgrade Echo",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Přidejte netheritovou zbroj, zbraň nebo nástroj",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Přidejte temný ingot",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

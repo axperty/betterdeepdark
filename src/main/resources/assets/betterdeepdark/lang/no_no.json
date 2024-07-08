@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Dyp Mørk Sverd",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Dyp Mørk Hakke",
+  "item.betterdeepdark.deep_dark_axe": "§3Dyp Mørk Øks",
+  "item.betterdeepdark.deep_dark_shovel": "§3Dyp Mørk Spade",
+  "item.betterdeepdark.deep_dark_hoe": "§3Dyp Mørk Hakke",
+
+  "item.betterdeepdark.echo_helmet": "§3Ekko Hjelm",
+  "item.betterdeepdark.echo_chestplate": "§3Ekko Brystplate",
+  "item.betterdeepdark.echo_leggings": "§3Ekko Leggings",
+  "item.betterdeepdark.echo_boots": "§3Ekko Støvler",
+
+  "item.betterdeepdark.soul_piece": "Sjelbit",
+  "item.betterdeepdark.echo_stone": "Ekkostein",
+  "item.betterdeepdark.wardens_horn": "Vokterens Horn",
+  "item.betterdeepdark.slimed_wardens_horn": "Slimet Vokterens Horn",
+  "item.betterdeepdark.dark_ingot": "Mørk Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Ekko Oppgradering Smiet Mal",
+  "block.betterdeepdark.echo_stone_block": "Ekkostein Blokk",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netherite Utstyr",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Mørk Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Ekko Oppgradering",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Legg til netherite rustning, våpen eller verktøy",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Legg til Mørk Ingot",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

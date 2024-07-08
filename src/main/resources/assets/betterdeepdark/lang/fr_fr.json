@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Épée Sombre Profonde",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Pioche Sombre Profonde",
+  "item.betterdeepdark.deep_dark_axe": "§3Hache Sombre Profonde",
+  "item.betterdeepdark.deep_dark_shovel": "§3Pelle Sombre Profonde",
+  "item.betterdeepdark.deep_dark_hoe": "§3Houe Sombre Profonde",
+
+  "item.betterdeepdark.echo_helmet": "§3Casque Écho",
+  "item.betterdeepdark.echo_chestplate": "§3Plastron Écho",
+  "item.betterdeepdark.echo_leggings": "§3Jambières Écho",
+  "item.betterdeepdark.echo_boots": "§3Bottes Écho",
+
+  "item.betterdeepdark.soul_piece": "Morceau d'Âme",
+  "item.betterdeepdark.echo_stone": "Pierre d'Écho",
+  "item.betterdeepdark.wardens_horn": "Cor du Gardien",
+  "item.betterdeepdark.slimed_wardens_horn": "Cor du Gardien Enlimé",
+  "item.betterdeepdark.dark_ingot": "Lingot Sombre",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Modèle de Forge pour Amélioration Écho",
+  "block.betterdeepdark.echo_stone_block": "Bloc de Pierre d'Écho",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Équipement en Netherite",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Lingot Sombre",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Amélioration Écho",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Ajoutez une armure, arme ou outil en netherite",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Ajoutez un Lingot Sombre",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

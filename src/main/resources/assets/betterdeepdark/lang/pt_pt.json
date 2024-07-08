@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Espada Profunda Escura",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Picareta Profunda Escura",
+  "item.betterdeepdark.deep_dark_axe": "§3Machado Profundo Escuro",
+  "item.betterdeepdark.deep_dark_shovel": "§3Pá Profunda Escura",
+  "item.betterdeepdark.deep_dark_hoe": "§3Enxada Profunda Escura",
+
+  "item.betterdeepdark.echo_helmet": "§3Capacete Eco",
+  "item.betterdeepdark.echo_chestplate": "§3Peitoral Eco",
+  "item.betterdeepdark.echo_leggings": "§3Perneiras Eco",
+  "item.betterdeepdark.echo_boots": "§3Botas Eco",
+
+  "item.betterdeepdark.soul_piece": "Fragmento de Alma",
+  "item.betterdeepdark.echo_stone": "Pedra Eco",
+  "item.betterdeepdark.wardens_horn": "Chifre do Guardião",
+  "item.betterdeepdark.slimed_wardens_horn": "Chifre do Guardião com Slime",
+  "item.betterdeepdark.dark_ingot": "Lingote Escuro",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Modelo de Forja para Melhoria Eco",
+  "block.betterdeepdark.echo_stone_block": "Bloco de Pedra Eco",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Equipamento de Netherite",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Lingote Escuro",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Melhoria Eco",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Adicionar armadura, arma ou ferramenta de Netherite",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Adicionar Lingote Escuro",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

@@ -1,6 +1,17 @@
 # Better Deep Dark
 ## Development Changelog
 
+## 2024.07.08:
+- Added translations for most languages.
+- Added tool tags.
+- Fixed attack damage and attack speed values for all tools.
+- Improved Echo Stone Block texture.
+- Improved Echo Upgrade Smithing Template texture.
+- Increased positive and negative effect time when eating Warden's Horn and Slimed Warden's Horn.
+- Renamed Echo tools to Deep Dark tools.
+- Changed creative tab icon from Deep Dark Sword to Dark Ingot.
+- Changed version from 2024.06.25-1.20.1-forge to 2024.07.08-1.20.1-forge.
+
 ## 2024.07.06 (2):
 - Added Echo Stone Block.
 - Increased negative effect when eating Warden's Horn.

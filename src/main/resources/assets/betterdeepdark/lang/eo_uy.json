@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Profunda Malhela Glavo",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Profunda Malhela Pioĉo",
+  "item.betterdeepdark.deep_dark_axe": "§3Profunda Malhela Hako",
+  "item.betterdeepdark.deep_dark_shovel": "§3Profunda Malhela Fosilo",
+  "item.betterdeepdark.deep_dark_hoe": "§3Profunda Malhela Kampilo",
+
+  "item.betterdeepdark.echo_helmet": "§3Eĥa Kasko",
+  "item.betterdeepdark.echo_chestplate": "§3Eĥa Brustkiraso",
+  "item.betterdeepdark.echo_leggings": "§3Eĥaj Gamboj",
+  "item.betterdeepdark.echo_boots": "§3Eĥaj Botoj",
+
+  "item.betterdeepdark.soul_piece": "Animopeco",
+  "item.betterdeepdark.echo_stone": "Eĥa Ŝtono",
+  "item.betterdeepdark.wardens_horn": "Korno de Gardanto",
+  "item.betterdeepdark.slimed_wardens_horn": "Ŝlimigita Korno de Gardanto",
+  "item.betterdeepdark.dark_ingot": "Malhela Ingoto",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Eĥa Pliboniga Forĝa Ŝablono",
+  "block.betterdeepdark.echo_stone_block": "Eĥa Ŝtonbloko",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netherita Ekipado",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Malhela Ingoto",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Eĥa Plibonigo",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Aldonu netheritan kiraso, armilo, aŭ ilo",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Aldonu Malhela Ingoto",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

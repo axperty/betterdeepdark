@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterdeepdark:echo_stone_block"
+    }
+  ],
+  "result": {
+    "item": "betterdeepdark:echo_stone",
+    "count": 9
+  }
+}

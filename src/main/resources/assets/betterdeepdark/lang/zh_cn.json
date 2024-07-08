@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3深暗之剑",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3深暗之镐",
+  "item.betterdeepdark.deep_dark_axe": "§3深暗之斧",
+  "item.betterdeepdark.deep_dark_shovel": "§3深暗之铲",
+  "item.betterdeepdark.deep_dark_hoe": "§3深暗之锄",
+
+  "item.betterdeepdark.echo_helmet": "§3回声头盔",
+  "item.betterdeepdark.echo_chestplate": "§3回声胸甲",
+  "item.betterdeepdark.echo_leggings": "§3回声护腿",
+  "item.betterdeepdark.echo_boots": "§3回声靴子",
+
+  "item.betterdeepdark.soul_piece": "灵魂碎片",
+  "item.betterdeepdark.echo_stone": "回声石",
+  "item.betterdeepdark.wardens_horn": "守卫之角",
+  "item.betterdeepdark.slimed_wardens_horn": "黏液守卫之角",
+  "item.betterdeepdark.dark_ingot": "暗金锭",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "回声升级锻造模板",
+  "block.betterdeepdark.echo_stone_block": "回声石块",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9下界合金装备",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9暗金锭",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7回声升级",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "添加下界合金装甲、武器或工具",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "添加暗金锭",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

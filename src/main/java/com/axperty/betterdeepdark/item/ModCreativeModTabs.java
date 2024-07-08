@@ -16,7 +16,7 @@ public class ModCreativeModTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, BetterDeepDark.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> BETTERDEEPDARK_TAB = CREATIVE_MODE_TABS.register("betterdeepdark_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.ECHO_SWORD.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.DARK_INGOT.get()))
                     .title(Component.translatable("creativetab.betterdeepdark"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.SLIMED_WARDENS_HORN.get());
@@ -27,11 +27,11 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE.get());
                         pOutput.accept(ModBlocks.ECHO_STONE_BLOCK.get());
 
-                        pOutput.accept(ModItems.ECHO_SWORD.get());
-                        pOutput.accept(ModItems.ECHO_PICKAXE.get());
-                        pOutput.accept(ModItems.ECHO_AXE.get());
-                        pOutput.accept(ModItems.ECHO_SHOVEL.get());
-                        pOutput.accept(ModItems.ECHO_HOE.get());
+                        pOutput.accept(ModItems.DEEP_DARK_SWORD.get());
+                        pOutput.accept(ModItems.DEEP_DARK_PICKAXE.get());
+                        pOutput.accept(ModItems.DEEP_DARK_AXE.get());
+                        pOutput.accept(ModItems.DEEP_DARK_SHOVEL.get());
+                        pOutput.accept(ModItems.DEEP_DARK_HOE.get());
 
                         pOutput.accept(ModItems.ECHO_HELMET.get());
                         pOutput.accept(ModItems.ECHO_CHESTPLATE.get());

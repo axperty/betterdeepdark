@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Djup Mörk Svärd",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Djup Mörk Hacka",
+  "item.betterdeepdark.deep_dark_axe": "§3Djup Mörk Yxa",
+  "item.betterdeepdark.deep_dark_shovel": "§3Djup Mörk Spade",
+  "item.betterdeepdark.deep_dark_hoe": "§3Djup Mörk Hacka",
+
+  "item.betterdeepdark.echo_helmet": "§3Ekohjälm",
+  "item.betterdeepdark.echo_chestplate": "§3Ekopansar",
+  "item.betterdeepdark.echo_leggings": "§3Ekostrumpor",
+  "item.betterdeepdark.echo_boots": "§3Ekostövlar",
+
+  "item.betterdeepdark.soul_piece": "Själsbit",
+  "item.betterdeepdark.echo_stone": "Eko sten",
+  "item.betterdeepdark.wardens_horn": "Vaktens horn",
+  "item.betterdeepdark.slimed_wardens_horn": "Slimad vaktens horn",
+  "item.betterdeepdark.dark_ingot": "Mörkt Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Eko uppgradering smidesmall",
+  "block.betterdeepdark.echo_stone_block": "Eko stenblock",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netherite Utrustning",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Mörkt Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Eko uppgradering",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Lägg till netherite rustning, vapen eller verktyg",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Lägg till mörkt ingot",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

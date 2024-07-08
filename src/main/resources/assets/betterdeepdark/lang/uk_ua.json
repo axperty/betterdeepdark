@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Глибокий Темний Меч",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Глибокий Темний Кирка",
+  "item.betterdeepdark.deep_dark_axe": "§3Глибокий Темний Топір",
+  "item.betterdeepdark.deep_dark_shovel": "§3Глибокий Темний Лопата",
+  "item.betterdeepdark.deep_dark_hoe": "§3Глибокий Темний Сокира",
+
+  "item.betterdeepdark.echo_helmet": "§3Шолом Ехо",
+  "item.betterdeepdark.echo_chestplate": "§3Нагрудник Ехо",
+  "item.betterdeepdark.echo_leggings": "§3Поножі Ехо",
+  "item.betterdeepdark.echo_boots": "§3Чоботи Ехо",
+
+  "item.betterdeepdark.soul_piece": "Душевий Шматок",
+  "item.betterdeepdark.echo_stone": "Камінь Ехо",
+  "item.betterdeepdark.wardens_horn": "Ріг Стража",
+  "item.betterdeepdark.slimed_wardens_horn": "Слизький Ріг Стража",
+  "item.betterdeepdark.dark_ingot": "Темний Інгот",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Шаблон Покращення Ехо",
+  "block.betterdeepdark.echo_stone_block": "Блок Каменю Ехо",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Екіпірування з Незеріту",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Темний Інгот",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Покращення Ехо",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Додати броню, зброю або інструменти з незеріту",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Додати Темний Інгот",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

@@ -67,20 +67,21 @@ public class ModItems {
             )
     );
 
-    public static final RegistryObject<Item> ECHO_SWORD = ITEMS.register("echo_sword",
-            () -> new SwordItem(ModToolTiers.ECHO_TIER, 4, .2f, new Item.Properties().fireResistant()));
+    public static final RegistryObject<Item> DEEP_DARK_SWORD = ITEMS.register("deep_dark_sword",
+            () -> new SwordItem(ModToolTiers.DEEP_DARK_TIER, 9, -2.0f, new Item.Properties().fireResistant()));
 
-    public static final RegistryObject<Item> ECHO_PICKAXE = ITEMS.register("echo_pickaxe",
-            () -> new PickaxeItem(ModToolTiers.ECHO_TIER, 0, 0, new Item.Properties().fireResistant()));
+    public static final RegistryObject<Item> DEEP_DARK_PICKAXE = ITEMS.register("deep_dark_pickaxe",
+            () -> new PickaxeItem(ModToolTiers.DEEP_DARK_TIER, 6, -2.0f, new Item.Properties().fireResistant()));
 
-    public static final RegistryObject<Item> ECHO_AXE = ITEMS.register("echo_axe",
-            () -> new AxeItem(ModToolTiers.ECHO_TIER, 4, .2f, new Item.Properties().fireResistant()));
+    public static final RegistryObject<Item> DEEP_DARK_AXE = ITEMS.register("deep_dark_axe",
+            () -> new AxeItem(ModToolTiers.DEEP_DARK_TIER, 10, -3.0f, new Item.Properties().fireResistant()));
 
-    public static final RegistryObject<Item> ECHO_SHOVEL = ITEMS.register("echo_shovel",
-            () -> new ShovelItem(ModToolTiers.ECHO_TIER, 0, 0, new Item.Properties().fireResistant()));
+    public static final RegistryObject<Item> DEEP_DARK_SHOVEL = ITEMS.register("deep_dark_shovel",
+            () -> new ShovelItem(ModToolTiers.DEEP_DARK_TIER, 6.5f, -3.0f, new Item.Properties().fireResistant()));
 
-    public static final RegistryObject<Item> ECHO_HOE = ITEMS.register("echo_hoe",
-            () -> new HoeItem(ModToolTiers.ECHO_TIER, 0, 0, new Item.Properties().fireResistant()));
+    public static final RegistryObject<Item> DEEP_DARK_HOE = ITEMS.register("deep_dark_hoe",
+            () -> new HoeItem(ModToolTiers.DEEP_DARK_TIER, 1, 1f, new Item.Properties().fireResistant()));
+
 
 //    This will have to get done in a separate mod.
 //    public static final RegistryObject<Item> ECHO_KNIFE = ITEMS.register("echo_knife",

@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Tiefdunkles Schwert",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Tiefdunkle Spitzhacke",
+  "item.betterdeepdark.deep_dark_axe": "§3Tiefdunkle Axt",
+  "item.betterdeepdark.deep_dark_shovel": "§3Tiefdunkle Schaufel",
+  "item.betterdeepdark.deep_dark_hoe": "§3Tiefdunkle Hacke",
+
+  "item.betterdeepdark.echo_helmet": "§3Echo-Helm",
+  "item.betterdeepdark.echo_chestplate": "§3Echo-Brustpanzer",
+  "item.betterdeepdark.echo_leggings": "§3Echo-Beinschienen",
+  "item.betterdeepdark.echo_boots": "§3Echo-Stiefel",
+
+  "item.betterdeepdark.soul_piece": "Seelenstück",
+  "item.betterdeepdark.echo_stone": "Echostein",
+  "item.betterdeepdark.wardens_horn": "Horn des Wächters",
+  "item.betterdeepdark.slimed_wardens_horn": "Schleimiges Wächterhorn",
+  "item.betterdeepdark.dark_ingot": "Dunkler Barren",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Echo-Upgrade-Schmiedevorlage",
+  "block.betterdeepdark.echo_stone_block": "Echosteinblock",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netheritausrüstung",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Dunkler Barren",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Echo-Upgrade",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Fügen Sie Netheritrüstung, -waffe oder -werkzeug hinzu",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Fügen Sie dunklen Barren hinzu",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

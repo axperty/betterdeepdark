@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3ディープダークソード",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3ディープダークピッケル",
+  "item.betterdeepdark.deep_dark_axe": "§3ディープダークアックス",
+  "item.betterdeepdark.deep_dark_shovel": "§3ディープダークシャベル",
+  "item.betterdeepdark.deep_dark_hoe": "§3ディープダーククワ",
+
+  "item.betterdeepdark.echo_helmet": "§3エコーヘルメット",
+  "item.betterdeepdark.echo_chestplate": "§3エコーチェストプレート",
+  "item.betterdeepdark.echo_leggings": "§3エコーレギンス",
+  "item.betterdeepdark.echo_boots": "§3エコーブーツ",
+
+  "item.betterdeepdark.soul_piece": "魂のかけら",
+  "item.betterdeepdark.echo_stone": "エコーストーン",
+  "item.betterdeepdark.wardens_horn": "ウォーデンのホーン",
+  "item.betterdeepdark.slimed_wardens_horn": "スライム付きウォーデンのホーン",
+  "item.betterdeepdark.dark_ingot": "ダークインゴット",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "エコー強化鍛冶テンプレート",
+  "block.betterdeepdark.echo_stone_block": "エコーストーンブロック",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9ネザライト装備",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9ダークインゴット",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7エコー強化",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "ネザライトの防具、武器、またはツールを追加",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "ダークインゴットを追加",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

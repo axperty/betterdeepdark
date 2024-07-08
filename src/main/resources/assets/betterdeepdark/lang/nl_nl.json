@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Diepe Donkere Zwaard",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Diepe Donkere Houweel",
+  "item.betterdeepdark.deep_dark_axe": "§3Diepe Donkere Bijl",
+  "item.betterdeepdark.deep_dark_shovel": "§3Diepe Donkere Schep",
+  "item.betterdeepdark.deep_dark_hoe": "§3Diepe Donkere Hark",
+
+  "item.betterdeepdark.echo_helmet": "§3Echo Helm",
+  "item.betterdeepdark.echo_chestplate": "§3Echo Borstplaat",
+  "item.betterdeepdark.echo_leggings": "§3Echo Broek",
+  "item.betterdeepdark.echo_boots": "§3Echo Laarzen",
+
+  "item.betterdeepdark.soul_piece": "Zielstuk",
+  "item.betterdeepdark.echo_stone": "Echo Steen",
+  "item.betterdeepdark.wardens_horn": "Hoorn van de Waker",
+  "item.betterdeepdark.slimed_wardens_horn": "Geslimede Hoorn van de Waker",
+  "item.betterdeepdark.dark_ingot": "Donker Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Echo Upgrade Smeed Sjabloon",
+  "block.betterdeepdark.echo_stone_block": "Echo Steen Blok",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Netheriet Uitrusting",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Donker Ingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Echo Upgrade",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Voeg netheriet harnas, wapen of gereedschap toe",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Voeg Donker Ingot toe",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

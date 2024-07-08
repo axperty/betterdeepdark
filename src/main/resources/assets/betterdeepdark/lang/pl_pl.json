@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3Głęboki Mroczny Miecz",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3Głęboki Mroczny Kilof",
+  "item.betterdeepdark.deep_dark_axe": "§3Głęboki Mroczny Topór",
+  "item.betterdeepdark.deep_dark_shovel": "§3Głęboki Mroczny Łopatka",
+  "item.betterdeepdark.deep_dark_hoe": "§3Głęboki Mroczny Motyka",
+
+  "item.betterdeepdark.echo_helmet": "§3Hełm Echa",
+  "item.betterdeepdark.echo_chestplate": "§3Napierśnik Echa",
+  "item.betterdeepdark.echo_leggings": "§3Nagolenniki Echa",
+  "item.betterdeepdark.echo_boots": "§3Buty Echa",
+
+  "item.betterdeepdark.soul_piece": "Kawałek Duszy",
+  "item.betterdeepdark.echo_stone": "Kamień Echa",
+  "item.betterdeepdark.wardens_horn": "Róg Strażnika",
+  "item.betterdeepdark.slimed_wardens_horn": "Śluzowaty Róg Strażnika",
+  "item.betterdeepdark.dark_ingot": "Ciemny Lingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "Szablon Ulepszenia Echa",
+  "block.betterdeepdark.echo_stone_block": "Bloki Kamienia Echa",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9Ekwipunek Netherite",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9Ciemny Lingot",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7Ulepszenie Echa",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "Dodaj zbroję, broń lub narzędzie netherite",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "Dodaj Ciemny Lingot",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}

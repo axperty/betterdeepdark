@@ -1,0 +1,28 @@
+{
+  "item.betterdeepdark.deep_dark_sword": "§3딥 다크 검",
+  "item.betterdeepdark.deep_dark_pickaxe": "§3딥 다크 곡괭이",
+  "item.betterdeepdark.deep_dark_axe": "§3딥 다크 도끼",
+  "item.betterdeepdark.deep_dark_shovel": "§3딥 다크 삽",
+  "item.betterdeepdark.deep_dark_hoe": "§3딥 다크 괭이",
+
+  "item.betterdeepdark.echo_helmet": "§3에코 헬멧",
+  "item.betterdeepdark.echo_chestplate": "§3에코 흉갑",
+  "item.betterdeepdark.echo_leggings": "§3에코 다리갑옷",
+  "item.betterdeepdark.echo_boots": "§3에코 부츠",
+
+  "item.betterdeepdark.soul_piece": "영혼 조각",
+  "item.betterdeepdark.echo_stone": "에코 스톤",
+  "item.betterdeepdark.wardens_horn": "감시자의 뿔",
+  "item.betterdeepdark.slimed_wardens_horn": "슬라임 감시자의 뿔",
+  "item.betterdeepdark.dark_ingot": "다크 잉곳",
+  "item.betterdeepdark.echo_upgrade_smithing_template": "에코 업그레이드 대장장이 템플릿",
+  "block.betterdeepdark.echo_stone_block": "에코 스톤 블록",
+
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance": "§9네더라이트 장비",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.tooltip": "§9다크 잉곳",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.result_slot": "§7에코 업그레이드",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.addition_slot": "네더라이트 방어구, 무기 또는 도구 추가",
+  "item.betterdeepdark.echo_upgrade_smithing_template.appearance.base_slot": "다크 잉곳 추가",
+
+  "creativetab.betterdeepdark": "Better Deep Dark"
+}
