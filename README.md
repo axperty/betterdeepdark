@@ -3,7 +3,7 @@
 <a href="https://www.curseforge.com/minecraft/mc-mods/better-deep-dark"><img src="https://cf.way2muchnoise.eu/full_958291_downloads.svg" alt="Curseforge Downloads"></a>
 <a href="https://discord.gg/e2BQx4bbsU"><img alt="Discord" src="https://img.shields.io/discord/1194733791818821663?color=brightgreen&label=Discord"></a>
 
-<img src="https://cdn.modrinth.com/data/IO0rG794/images/c33169f54e087babab598ac1ef1a899e3418b12f.png">
+<img src="https://cdn.modrinth.com/data/IO0rG794/images/7cd38e9a6785eda98a7a413bc142192d686a8474.png">
 <hr>
 
 ### Overview
