@@ -4,10 +4,10 @@
     "item": "betterdeepdark:dark_ingot"
   },
   "base": {
-    "item": "minecraft:netherite_hoe"
+    "item": "minecraft:netherite_axe"
   },
   "result": {
-    "item": "betterdeepdark:echo_hoe"
+    "item": "betterdeepdark:deep_dark_axe"
   },
   "template": {
     "item": "betterdeepdark:echo_upgrade_smithing_template"

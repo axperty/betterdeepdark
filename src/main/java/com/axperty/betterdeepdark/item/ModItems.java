@@ -79,11 +79,6 @@ public class ModItems {
     public static final RegistryObject<Item> DEEP_DARK_HOE = ITEMS.register("deep_dark_hoe",
             () -> new HoeItem(ModToolTiers.DEEP_DARK_TIER, 1, 1f, new Item.Properties().fireResistant()));
 
-
-//    This will have to get done in a separate mod.
-//    public static final RegistryObject<Item> ECHO_KNIFE = ITEMS.register("echo_knife",
-//            () -> new KnifeItem(ModToolTiers.ECHO_TIER, 0, 0, new Item.Properties()));
-
     public static final RegistryObject<Item> ECHO_HELMET = ITEMS.register("echo_helmet",
             () -> new ModArmorItem(ModArmorMaterials.ECHO, ArmorItem.Type.HELMET, new Item.Properties().fireResistant()));
 

@@ -4,10 +4,10 @@
     "item": "betterdeepdark:dark_ingot"
   },
   "base": {
-    "item": "minecraft:netherite_pickaxe"
+    "item": "minecraft:netherite_hoe"
   },
   "result": {
-    "item": "betterdeepdark:echo_pickaxe"
+    "item": "betterdeepdark:deep_dark_hoe"
   },
   "template": {
     "item": "betterdeepdark:echo_upgrade_smithing_template"
