@@ -37,4 +37,4 @@ This mod adds sixteen new type of items and blocks to the game to make the playe
 
 More features will be added in the following updates to this mod.
 
-If you want a certain feature, you can send your suggestions [on GitHub,](https://github.com/axperty/betterdeepdark-forge/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)
+If you want a certain feature, you can send your suggestions on [GitHub,](https://github.com/axperty/betterdeepdark-forge/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)
