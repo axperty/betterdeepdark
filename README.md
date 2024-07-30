@@ -1,6 +1,6 @@
 # Better Deep Dark
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/better-deep-dark"><img src="https://cf.way2muchnoise.eu/full_958291_downloads.svg" alt="Curseforge Downloads"></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/better-deep-dark"><img src="https://cf.way2muchnoise.eu/full_1060201_downloads.svg" alt="Curseforge Downloads"></a>
 <a href="https://discord.gg/e2BQx4bbsU"><img alt="Discord" src="https://img.shields.io/discord/1194733791818821663?color=brightgreen&label=Discord"></a>
 
 <img src="https://cdn.modrinth.com/data/IO0rG794/images/7cd38e9a6785eda98a7a413bc142192d686a8474.png">
@@ -37,4 +37,4 @@ This mod adds sixteen new type of items and blocks to the game to make the playe
 
 More features will be added in the following updates to this mod.
 
-If you want a certain feature, you can send your suggestions [on GitHub,](https://github.com/axperty/betterdeepdark-forge/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)
+If you want a certain feature, you can send your suggestions on [GitHub,](https://github.com/axperty/betterdeepdark-forge/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)

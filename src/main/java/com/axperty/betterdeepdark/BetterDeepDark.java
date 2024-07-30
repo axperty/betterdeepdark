@@ -1,37 +1,22 @@
 package com.axperty.betterdeepdark;
 
-import com.axperty.betterdeepdark.loot.ModLootModifiers;
-import com.mojang.logging.LogUtils;
 import com.axperty.betterdeepdark.block.ModBlocks;
-import com.axperty.betterdeepdark.item.ModCreativeModTabs;
+import com.axperty.betterdeepdark.item.ModItemGroups;
 import com.axperty.betterdeepdark.item.ModItems;
-import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.eventbus.api.IEventBus;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.fabricmc.api.ModInitializer;
+
 import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-@Mod(BetterDeepDark.MOD_ID)
-public class BetterDeepDark {
-    public static final String MOD_ID = "betterdeepdark";
-    public static final Logger LOGGER = LogUtils.getLogger();
+public class BetterDeepDark implements ModInitializer {
+	public static final String MOD_ID = "betterdeepdark";
+    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
-    public BetterDeepDark() {
-        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+	@Override
+	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
 
-        ModCreativeModTabs.register(modEventBus);
-
-        ModItems.register(modEventBus);
-        ModBlocks.register(modEventBus);
-        ModLootModifiers.register(modEventBus);
-
-        modEventBus.addListener(this::commonSetup);
-
-        MinecraftForge.EVENT_BUS.register(this);
-    }
-
-    private void commonSetup(final FMLCommonSetupEvent event) {
-
-    }
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+	}
 }

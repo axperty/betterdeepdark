@@ -1,22 +1,22 @@
 package com.axperty.betterdeepdark.item;
 
 import com.axperty.betterdeepdark.BetterDeepDark;
-import net.minecraft.sounds.SoundEvent;
-import net.minecraft.sounds.SoundEvents;
-import net.minecraft.world.item.ArmorItem;
-import net.minecraft.world.item.ArmorMaterial;
-import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.item.ArmorItem;
+import net.minecraft.item.ArmorMaterial;
+import net.minecraft.recipe.Ingredient;
+import net.minecraft.sound.SoundEvent;
+import net.minecraft.sound.SoundEvents;
 
 import java.util.function.Supplier;
 
 public enum ModArmorMaterials implements ArmorMaterial {
     ECHO("echo", 26, new int[]{ 5, 7, 5, 4 }, 25,
-            SoundEvents.ARMOR_EQUIP_NETHERITE, .1f, .1f, () -> Ingredient.of(ModItems.ECHO_STONE.get()));
+            SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, .1f, .1f, () -> Ingredient.ofItems(ModItems.ECHO_STONE));
 
     private final String name;
     private final int durabilityMultiplier;
     private final int[] protectionAmounts;
-    private final int enchantmentValue;
+    private final int enchantability;
     private final SoundEvent equipSound;
     private final float toughness;
     private final float knockbackResistance;
@@ -24,12 +24,12 @@ public enum ModArmorMaterials implements ArmorMaterial {
 
     private static final int[] BASE_DURABILITY = { 20, 26, 25, 21 };
 
-    ModArmorMaterials(String name, int durabilityMultiplier, int[] protectionAmounts, int enchantmentValue, SoundEvent equipSound,
+    ModArmorMaterials(String name, int durabilityMultiplier, int[] protectionAmounts, int enchantability, SoundEvent equipSound,
                       float toughness, float knockbackResistance, Supplier<Ingredient> repairIngredient) {
         this.name = name;
         this.durabilityMultiplier = durabilityMultiplier;
         this.protectionAmounts = protectionAmounts;
-        this.enchantmentValue = enchantmentValue;
+        this.enchantability = enchantability;
         this.equipSound = equipSound;
         this.toughness = toughness;
         this.knockbackResistance = knockbackResistance;
@@ -37,18 +37,18 @@ public enum ModArmorMaterials implements ArmorMaterial {
     }
 
     @Override
-    public int getDurabilityForType(ArmorItem.Type pType) {
-        return BASE_DURABILITY[pType.ordinal()] * this.durabilityMultiplier;
+    public int getDurability(ArmorItem.Type type) {
+        return BASE_DURABILITY[type.ordinal()] * this.durabilityMultiplier;
     }
 
     @Override
-    public int getDefenseForType(ArmorItem.Type pType) {
-        return this.protectionAmounts[pType.ordinal()];
+    public int getProtection(ArmorItem.Type type) {
+        return protectionAmounts[type.ordinal()];
     }
 
     @Override
-    public int getEnchantmentValue() {
-        return enchantmentValue;
+    public int getEnchantability() {
+        return this.enchantability;
     }
 
     @Override
